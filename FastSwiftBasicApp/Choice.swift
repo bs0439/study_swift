@@ -32,12 +32,12 @@ enum Menu{
     
 }
 //커밋확인용
-enum Direction: String{
-    case north = "북"
-    case west = "서"
-    case east = "동"
-    case south = "남"
-}
+//enum Direction: String{
+//    case north = "북"
+//    case west = "서"
+//    case east = "동"
+//    case south = "남"
+//}
 
 #Preview {
     Choice()

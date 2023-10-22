@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		432259902ADEC67A00250533 /* Selection.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4322598F2ADEC67A00250533 /* Selection.swift */; };
+		432259922ADECB2F00250533 /* Nil.swift in Sources */ = {isa = PBXBuildFile; fileRef = 432259912ADECB2F00250533 /* Nil.swift */; };
 		43380D932ADD57AD00B3B40C /* Diff.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43380D922ADD57AD00B3B40C /* Diff.swift */; };
 		43775E302ACEDF2C00A200AD /* FastSwiftBasicAppApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43775E2F2ACEDF2C00A200AD /* FastSwiftBasicAppApp.swift */; };
 		43775E322ACEDF2C00A200AD /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43775E312ACEDF2C00A200AD /* ContentView.swift */; };
@@ -19,10 +21,17 @@
 		43BA8F312ADAF74D0021ABF1 /* Function.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BA8F302ADAF74D0021ABF1 /* Function.swift */; };
 		43BA8F332ADAFE320021ABF1 /* Half.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BA8F322ADAFE320021ABF1 /* Half.swift */; };
 		43BA8F352ADB050A0021ABF1 /* Elevator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43BA8F342ADB050A0021ABF1 /* Elevator.swift */; };
+		43C473E92AE4F67200E02E8D /* Option.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C473E82AE4F67200E02E8D /* Option.swift */; };
+		43C473EB2AE4FB9300E02E8D /* Sample.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C473EA2AE4FB9300E02E8D /* Sample.swift */; };
+		43C473ED2AE5020300E02E8D /* Exception.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C473EC2AE5020300E02E8D /* Exception.swift */; };
+		43C473EF2AE50C3200E02E8D /* MyCar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C473EE2AE50C3200E02E8D /* MyCar.swift */; };
+		43C473F12AE510BB00E02E8D /* MyGeneric.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43C473F02AE510BB00E02E8D /* MyGeneric.swift */; };
 		43E216182ADEB158008A3F29 /* Choice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43E216172ADEB158008A3F29 /* Choice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4322598F2ADEC67A00250533 /* Selection.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Selection.swift; sourceTree = "<group>"; };
+		432259912ADECB2F00250533 /* Nil.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Nil.swift; sourceTree = "<group>"; };
 		43380D922ADD57AD00B3B40C /* Diff.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Diff.swift; sourceTree = "<group>"; };
 		43775E2C2ACEDF2C00A200AD /* FastSwiftBasicApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FastSwiftBasicApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43775E2F2ACEDF2C00A200AD /* FastSwiftBasicAppApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FastSwiftBasicAppApp.swift; sourceTree = "<group>"; };
@@ -36,6 +45,11 @@
 		43BA8F302ADAF74D0021ABF1 /* Function.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Function.swift; sourceTree = "<group>"; };
 		43BA8F322ADAFE320021ABF1 /* Half.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Half.swift; sourceTree = "<group>"; };
 		43BA8F342ADB050A0021ABF1 /* Elevator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Elevator.swift; sourceTree = "<group>"; };
+		43C473E82AE4F67200E02E8D /* Option.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Option.swift; sourceTree = "<group>"; };
+		43C473EA2AE4FB9300E02E8D /* Sample.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Sample.swift; sourceTree = "<group>"; };
+		43C473EC2AE5020300E02E8D /* Exception.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Exception.swift; sourceTree = "<group>"; };
+		43C473EE2AE50C3200E02E8D /* MyCar.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyCar.swift; sourceTree = "<group>"; };
+		43C473F02AE510BB00E02E8D /* MyGeneric.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyGeneric.swift; sourceTree = "<group>"; };
 		43E216172ADEB158008A3F29 /* Choice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Choice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -82,6 +96,13 @@
 				43BA8F342ADB050A0021ABF1 /* Elevator.swift */,
 				43380D922ADD57AD00B3B40C /* Diff.swift */,
 				43E216172ADEB158008A3F29 /* Choice.swift */,
+				4322598F2ADEC67A00250533 /* Selection.swift */,
+				432259912ADECB2F00250533 /* Nil.swift */,
+				43C473E82AE4F67200E02E8D /* Option.swift */,
+				43C473EA2AE4FB9300E02E8D /* Sample.swift */,
+				43C473EC2AE5020300E02E8D /* Exception.swift */,
+				43C473EE2AE50C3200E02E8D /* MyCar.swift */,
+				43C473F02AE510BB00E02E8D /* MyGeneric.swift */,
 			);
 			path = FastSwiftBasicApp;
 			sourceTree = "<group>";
@@ -164,17 +185,24 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				432259902ADEC67A00250533 /* Selection.swift in Sources */,
 				43BA8F332ADAFE320021ABF1 /* Half.swift in Sources */,
+				43C473E92AE4F67200E02E8D /* Option.swift in Sources */,
 				43775E322ACEDF2C00A200AD /* ContentView.swift in Sources */,
 				43E216182ADEB158008A3F29 /* Choice.swift in Sources */,
 				43775E302ACEDF2C00A200AD /* FastSwiftBasicAppApp.swift in Sources */,
 				43BA8F312ADAF74D0021ABF1 /* Function.swift in Sources */,
 				43BA8F292ACEE4360021ABF1 /* VarialbleType.swift in Sources */,
 				43BA8F2F2ADAD0EB0021ABF1 /* Loop.swift in Sources */,
+				43C473ED2AE5020300E02E8D /* Exception.swift in Sources */,
+				43C473EF2AE50C3200E02E8D /* MyCar.swift in Sources */,
+				432259922ADECB2F00250533 /* Nil.swift in Sources */,
+				43C473EB2AE4FB9300E02E8D /* Sample.swift in Sources */,
 				43380D932ADD57AD00B3B40C /* Diff.swift in Sources */,
 				43BA8F2B2ACEE7720021ABF1 /* MyCollections.swift in Sources */,
 				43BA8F2D2ADAC97C0021ABF1 /* Condition.swift in Sources */,
 				43BA8F352ADB050A0021ABF1 /* Elevator.swift in Sources */,
+				43C473F12AE510BB00E02E8D /* MyGeneric.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
