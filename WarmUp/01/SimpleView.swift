@@ -37,6 +37,17 @@ struct SimpleView: View {
                     .cornerRadius(10)
                     .bold()
             })
+            
+            Button(action: {
+                
+            }, label: {
+                Text("안녕하세요")
+            })
+            
+            
+            
+            
+            
         }
     }
 }
